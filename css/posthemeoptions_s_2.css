@@ -1,0 +1,150 @@
+
+           a:hover,
+			.selector-block .localiz_block:hover button, 
+			.selector-block .localiz_block:hover .current-block,
+			.selector-block .localiz_block .dropdown-menu li:hover .dropdown-item,
+			.selector-block .localiz_block .dropdown-menu li.current .dropdown-item,
+			.selector-mobile button:hover,.selector-mobile .dropdown-menu li a:hover,
+			.selector-mobile .dropdown-menu li.current a:hover,
+			.user-info-block:hover button,.user-info-block .dropdown-menu li a:hover,
+			.compare_top a #poscompare-nb,
+			.wishtlist_top a .cart-wishlist-number, 
+			.blockcart .button_cart a.desktop .item_count,.blockcart .button_cart a.mobile .item_count, 
+			.block_setting .content_setting .info_setting ul li a:hover,
+			.block_setting .content_setting .info_setting ul li.current a,
+			#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item.active  > a,
+			#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item.home  > a,
+			#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item:hover  > a,
+			#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-dropdown .submenu-item > a:hover,
+			#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-dropdown .submenu-item .category-sub-menu a:hover,
+			#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item .menu-dropdown.cat-drop-menu li a:hover,
+			#_mobile_megamenu .pos-menu-horizontal .menu-item a:hover,
+			#_mobile_megamenu  .pos-menu-horizontal .menu-item .icon-drop-mobile:hover i,
+			#_desktop_vegamenu .pos-menu-vertical .menu-content .menu-item.active  > a,
+			#_desktop_vegamenu .pos-menu-vertical .menu-content .menu-item:hover  > a,
+			#_desktop_vegamenu .pos-menu-vertical .menu-content .menu-dropdown .submenu-item > a:hover,
+			#_desktop_vegamenu .pos-menu-vertical .menu-content .menu-dropdown .submenu-item .category-sub-menu a:hover,
+			#_desktop_vegamenu .pos-menu-vertical .menu-content .menu-item .menu-dropdown.cat-drop-menu li a:hover,
+			#_mobile_vegamenu .pos-menu-vertical .menu-item a:hover,
+			#header .social_follow li a:hover,
+			#_mobile_vegamenu  .pos-menu-vertical .menu-item .icon-drop-mobile:hover i,
+			.js-product-miniature.style_product_default .add-to-links li.cart button.ajax_add_to_cart_button:hover, 
+			.js-product-miniature.style_product_default .add-to-links li.cart span.ajax_add_to_cart_button:hover, 
+			.js-product-miniature.style_product_default  .add-to-links li a:hover,
+			.js-product-miniature.style_product1 div.cart button.ajax_add_to_cart_button:hover,
+			.js-product-miniature.style_product1 div.cart span.ajax_add_to_cart_button:hover,
+			.js-product-miniature.style_product1 .add-to-links li a:hover,
+			.search_top form button:hover, 
+			.blockcart:hover .button_cart a.desktop,
+			.banner-top .txt_cms a:after,
+			.home-banner .txt_cms a:after,
+			.banner-top .txt_cms a:hover,
+			.home-banner .txt_cms a:hover,
+			.comments_advices a:hover,
+			.block-categories .category-sub-menu li[data-depth="0"] > a:hover,
+			.block-categories .collapse-icons .add:hover, 
+			.block-categories .collapse-icons .remove:hover,
+			.block-categories .category-sub-menu .category-sub-link:hover,
+			.breadcrumb_container .breadcrumb ol li:last-child a, .breadcrumb_container .breadcrumb ol li:last-child span,
+			.breadcrumb_container .breadcrumb ol li a:hover,
+			.slideshow_container .pos-slideshow .nivo-directionNav a:hover,		
+			.js-product-miniature .product_desc .product_name:hover,
+			.product-line-info a.product_name:hover,
+			.home_blog_post_area .blog_slider .item .blog_post .post_title a:hover,
+			.home_blog_post_area .blog_slider .item .blog_post .read_more a:hover,
+			.home_blog_post_area .blog_slider .item .blog_post .read_more a:after,
+			.meta_author span,.meta_category a,
+			.ft_newsletter form .btn:hover,
+			#footer a:hover,#footer .footer-container .footer_block .footer_list > li a:hover,	
+			#footer .footer-container .footer_bottom .bottom-inner .copyright a,
+			#footer .footer-container .footer_bottom .bottom-inner ul li a:hover,			
+			#search_filters_wrapper #search_filters .facet .facet-label:hover a,
+			 #js-product-list-top ul.display li:hover, #js-product-list-top ul.display li.selected ,
+			.js-product-miniature .product_desc .availability .availability-list span,
+			.product-actions .add-to-cart,
+			.product-line-grid-right .cart-line-product-actions .remove-from-cart:hover, .product-line-grid-right .product-price .remove-from-cart:hover,
+			.social-sharing li a:hover,
+			.tabs .nav-tabs .nav-item .nav-link:hover,.tabs .nav-tabs .nav-item .nav-link.active,
+			.ui-menu .ui-menu-item a.ui-state-focus, .ui-menu .ui-menu-item a.ui-state-active,
+			.page-my-account #content .links a:hover i,
+			.panel-product-line #wishlist_button:hover,
+			.panel-product-line .compare-button:hover,.panel-product-line .compare-button.cmp_added{  
+			color: #2caf4e; 
+		}
+		.js-product-miniature.style_product2 .add-to-links li.cart button.ajax_add_to_cart_button:hover,
+		.js-product-miniature.style_product2 .add-to-links li.cart span.ajax_add_to_cart_button:hover,
+		.js-product-miniature.style_product2 .add-to-links li a:hover,
+		.js-product-miniature.style_product3 .add-to-links li.cart button.ajax_add_to_cart_button:hover,
+		.js-product-miniature.style_product3 .add-to-links li.cart span.ajax_add_to_cart_button:hover,
+		.js-product-miniature.style_product3 .add-to-links li a:hover,
+		.blockcart .popup_cart ul li .img_content .product-quantity,
+		.blockcart .popup_cart .checkout a,
+		#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item.active  > a:before,
+		#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item.home  > a:before,
+		#_desktop_megamenu .pos-menu-horizontal .menu-content .menu-item:hover  > a:before,
+		#_desktop_vegamenu .pos-menu-vertical .title_vertical,
+		#pos_search_top .form_search .search_submit,
+		.desc_slideshow .readmore,
+		.slideshow_container .pos-slideshow .nivo-controlNav a:hover,
+		.slideshow_container .pos-slideshow .nivo-controlNav a.active,
+		.owl-nav > div:hover,
+		.pos_title h2:after,
+		.product-flag .new, .product-flag .on-sale, .product-flag .pack,
+		.owl-dots .owl-dot.active span, .owl-dots .owl-dot:hover span,	
+		.tab-category-container-slider ul.tab_cates li:hover,.tab-category-container-slider ul.tab_cates li.active,
+		#search_filters .ui-widget-header,	
+		#tags_block .tags_block li a:hover,
+		.tabs .nav-tabs .nav-item .nav-link:hover:after,.tabs .nav-tabs .nav-item .nav-link.active:after,	
+		.product-actions .add-to-cart:hover,
+		.back-top a,
+		.products-sort-order .select-list:hover,
+		.pagination a:hover,.pagination .current a,.product-actions .add-to-cart, 
+		.poscompare-product .desc-box div.cart button.ajax_add_to_cart_button:hover, 
+		.poscompare-product .desc-box div.cart span.ajax_add_to_cart_button:hover,
+		.btn-secondary:hover, .btn-tertiary:hover, .btn-primary:hover,
+		.btn-secondary:focus, .btn-tertiary:focus, .btn-primary:focus,
+		.btn-secondary:active, .btn-tertiary:active, .btn-primary:active,
+		.btn-secondary:active:focus, .btn-tertiary:active:focus, .btn-primary:active:focus
+		{ 
+			background: #2caf4e;
+		}
+		.slideshow_container .pos-slideshow .nivo-controlNav a:hover,
+		.slideshow_container .pos-slideshow .nivo-controlNav a.active,
+		.social_follow li a:hover,
+		.owl-nav > div:hover,
+		.tab-category-container-slider ul.tab_cates li:hover,.tab-category-container-slider ul.tab_cates li.active,
+		#tags_block .tags_block li a:hover,#search_filters_wrapper #search_filters .facet .facet-label:hover .custom-checkbox input[type="checkbox"] + span ,
+		.owl-dots .owl-dot.active span, .owl-dots .owl-dot:hover span,
+		.product-actions .add-to-cart,
+		.product-images .thumb-container.slick-current > div:before,.product-images .thumb-container:hover > div:before,
+		#js-product-list .product_content.list .js-product-miniature .product_desc div.cart button.ajax_add_to_cart_button:hover, 
+		#js-product-list .product_content.list .js-product-miniature .product_desc div.cart span.ajax_add_to_cart_button:hover{
+			border-color: #2caf4e;
+		}body{
+            font-family: "Poppins", sans-serif;
+            font-size: 12px;
+            color: #707070;
+        }.pos_title h2{
+            font-family: "Poppins", sans-serif;
+            font-size: 24px;
+            color: #292929;
+            text-transform: capitalize;
+        }.pos_title_column h2{  
+            font-size: 20px;
+        }.js-product-miniature .product_desc .product_name{
+            color: #909090;
+            font-size: 14px;
+            text-transform: capitalize;
+        }.js-product-miniature .product_desc .product_name:hover{
+            color: #2caf4e;
+        }.product-price-and-shipping .price{
+            color:#929292;
+            font-size: 16px;
+        }.h1.namne_details, .product_name_h1{
+            color: #292929;
+            font-size: 18px;
+            text-transform: capitalize;
+        }.product-prices .price, .product-prices .current-price span:first-child{
+            color:#292929;
+            font-size: 16px;
+        }

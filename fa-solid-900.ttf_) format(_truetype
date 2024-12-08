@@ -1,0 +1,878 @@
+<!DOCTYPE html><html lang="en"><head>
+    
+      
+  <meta charset="utf-8">
+
+
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+
+
+
+  <title>404 error</title>
+  <meta name="description" content="This page cannot be found">
+  <meta name="keywords" content="">
+      
+                  <link rel="alternate" href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found" hreflang="en-us">
+                  <link rel="alternate" href="https://demo.posthemes.com/pos_zonan/layout2/fr/page-introuvable" hreflang="fr-fr">
+        
+
+
+
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+
+  <link rel="icon" type="image/vnd.microsoft.icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+
+ <link href="https://fonts.googleapis.com/css?family=Karla:400,400i,700,700i&amp;display=swap&amp;subset=latin-ext" rel="stylesheet">
+ <script src="js/jquery.min.js"></script>
+
+    <link rel="stylesheet" href="css/theme.css" type="text/css" media="all">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&amp;display=swap&amp;subset=devanagari,latin-ext" type="text/css" media="all">
+  <link rel="stylesheet" href="css/blockwishlist.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/posrotatorimg.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/front_1.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/posmegamenu_s_2.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/posthemeoptions_s_2.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/nivo-slider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/postabcateslider.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/jquery-ui.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/jquery.ui.theme.min.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/front.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/productcomments.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/xipblog.css" type="text/css" media="all">
+  <link rel="stylesheet" href="css/custom.css" type="text/css" media="all">
+
+
+
+
+  
+
+  <script type="text/javascript">
+        var poscompare = {"nbProducts":0};
+        var prestashop = {"cart":{"products":[],"totals":{"total":{"type":"total","label":"Total","amount":0,"value":"$0.00"},"total_including_tax":{"type":"total","label":"Total (tax incl.)","amount":0,"value":"$0.00"},"total_excluding_tax":{"type":"total","label":"Total (tax excl.)","amount":0,"value":"$0.00"}},"subtotals":{"products":{"type":"products","label":"Subtotal","amount":0,"value":"$0.00"},"discounts":null,"shipping":{"type":"shipping","label":"Shipping","amount":0,"value":"Free"},"tax":{"type":"tax","label":"Taxes","amount":0,"value":"$0.00"}},"products_count":0,"summary_string":"0 items","vouchers":{"allowed":0,"added":[]},"discounts":[],"minimalPurchase":0,"minimalPurchaseRequired":""},"currency":{"name":"US Dollar","iso_code":"USD","iso_code_num":"840","sign":"$"},"customer":{"lastname":null,"firstname":null,"email":null,"birthday":null,"newsletter":null,"newsletter_date_add":null,"optin":null,"website":null,"company":null,"siret":null,"ape":null,"is_logged":false,"gender":{"type":null,"name":null},"addresses":[]},"language":{"name":"English (English)","iso_code":"en","locale":"en-US","language_code":"en-us","is_rtl":"0","date_format_lite":"m\/d\/Y","date_format_full":"m\/d\/Y H:i:s","id":1},"page":{"title":"The page you are looking for was not found.","canonical":null,"meta":{"title":"404 error","description":"This page cannot be found","keywords":"","robots":"index"},"page_name":"pagenotfound","body_classes":{"lang-en":true,"lang-rtl":false,"country-US":true,"currency-USD":true,"layout-full-width":true,"page-pagenotfound":true,"tax-display-disabled":true},"admin_notifications":[]},"shop":{"name":"Zonan 2  Responsive Prestashop Theme","logo":"\/pos_zonan\/layout2\/img\/zonan2-logo-15780245432.jpg","stores_icon":"\/pos_zonan\/layout2\/img\/logo_stores.png","favicon":"\/pos_zonan\/layout2\/img\/favicon.ico"},"urls":{"base_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/","current_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/themes\/theme_zonan2\/assets\/css\/webfonts\/fa-solid-900.ttf%22)%20format(%22truetype","shop_domain_url":"https:\/\/demo.posthemes.com","img_ps_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/","img_cat_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/c\/","img_lang_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/l\/","img_prod_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/","img_manu_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/m\/","img_sup_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/su\/","img_ship_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/s\/","img_store_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/st\/","img_col_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/co\/","img_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/themes\/theme_zonan2\/assets\/img\/","css_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/themes\/theme_zonan2\/assets\/css\/","js_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/themes\/theme_zonan2\/assets\/js\/","pic_url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/upload\/","pages":{"address":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/address","addresses":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/addresses","authentication":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/login","cart":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/cart","category":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=category","cms":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=cms","contact":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/contact-us","discount":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/discount","guest_tracking":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/guest-tracking","history":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/order-history","identity":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/identity","index":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/","my_account":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/my-account","order_confirmation":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/order-confirmation","order_detail":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=order-detail","order_follow":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/order-follow","order":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/order","order_return":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=order-return","order_slip":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/credit-slip","pagenotfound":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/page-not-found","password":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/password-recovery","pdf_invoice":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=pdf-invoice","pdf_order_return":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=pdf-order-return","pdf_order_slip":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=pdf-order-slip","prices_drop":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/prices-drop","product":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/index.php?controller=product","search":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/search","sitemap":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/sitemap","stores":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/stores","supplier":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/supplier","register":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/login?create_account=1","order_login":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/order?login=1"},"alternative_langs":{"en-us":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/page-not-found","fr-fr":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/fr\/page-introuvable"},"theme_assets":"\/pos_zonan\/layout2\/themes\/theme_zonan2\/assets\/","actions":{"logout":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/?mylogout="},"no_picture_image":{"bySize":{"small_default":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-small_default.jpg","width":98,"height":131},"cart_default":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-cart_default.jpg","width":125,"height":167},"home_default":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-home_default.jpg","width":360,"height":480},"medium_default":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-medium_default.jpg","width":452,"height":603},"large_default":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-large_default.jpg","width":600,"height":800}},"small":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-small_default.jpg","width":98,"height":131},"medium":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-home_default.jpg","width":360,"height":480},"large":{"url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/img\/p\/en-default-large_default.jpg","width":600,"height":800},"legend":""}},"configuration":{"display_taxes_label":false,"display_prices_tax_incl":false,"is_catalog":false,"show_prices":true,"opt_in":{"partner":true},"quantity_discount":{"type":"discount","label":"Discount"},"voucher_enabled":0,"return_enabled":0},"field_required":[],"breadcrumb":{"links":[{"title":"Home","url":"https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/en\/"}],"count":1},"link":{"protocol_link":"https:\/\/","protocol_content":"https:\/\/"},"time":1733658378,"static_token":"9a4624691966912e3d9bb74d9ac16327","token":"545051da0428ad75537f922391c4bcf3"};
+        var xip_base_dir = "https:\/\/demo.posthemes.com\/pos_zonan\/layout2\/";
+      </script>
+
+
+
+  <style type="text/css">
+.animation1 {
+	 -webkit-transition-duration: 500ms !important;
+    -moz-transition-duration: 500ms !important;
+    -o-transition-duration: 500ms !important;
+    transition-duration: 500ms !important;
+}
+
+</style>
+
+
+
+    
+  </head>
+
+  <body itemscope="" itemtype="http://schema.org/WebPage" id="pagenotfound" class="lang-en country-us currency-usd layout-full-width page-pagenotfound tax-display-disabled"> 
+
+    
+      
+    
+
+    <main>
+      
+              
+
+      <header id="header">
+        
+          
+<div class="header-banner">
+	
+</div>
+
+
+
+<nav class="header-nav">
+	<div class="container"> 
+		<div class="hidden-md-down">
+			
+		</div>
+		<div class="hidden-lg-up  mobile">
+			<div class="row row-mobile">
+				<div class="col-mobile mobile-top col-sm-3 col-xs-12">
+					<div class="top-logo" id="_mobile_logo"></div>
+				</div>
+				<div class="col-mobile mobile-bottom col-sm-9 col-xs-12">
+					
+					<div class="float-xs-left" id="menu-icon">
+						<i class="ion-navicon"></i>
+					</div>
+					<div id="mobile_top_menu_wrapper" class="row hidden-lg-up" style="display:none;">
+						<div class="top-header-mobile">
+						</div>		
+						<div class="menu-close"> 
+							menu <i class="material-icons float-xs-right">arrow_back</i>
+						</div>
+						<div class="menu-tabs">							
+							<div class="js-top-menu-bottom">												
+								<div id="_mobile_megamenu"></div>			
+							</div>
+							
+						</div>
+					</div>					
+					<div id="_mobile_compare"></div>
+					<div id="_mobile_wishtlist"></div>
+					<div id="_mobile_cart_block"></div>
+					<div class="block_setting dropdown js-dropdown">
+						<span class="ion-android-settings icon-Settings " data-target="#" data-toggle="dropdown"></span>
+						<div class="content_setting dropdown-menu">
+								<div class="user-info info_setting">
+		<div class="title_setting">My account</div>
+		<ul>
+			<li>
+				<a href="https://demo.posthemes.com/pos_zonan/layout2/en/my-account" rel="nofollow" class="dropdown-item">My account</a>
+			</li>
+			<li>
+			</li><li>
+				<a href="https://demo.posthemes.com/pos_zonan/layout2/en/cart?action=show" class="dropdown-item">Checkout</a>
+			</li>
+			<li>
+								  <a href="https://demo.posthemes.com/pos_zonan/layout2/en/my-account" title="Log in to your customer account" rel="nofollow" class="dropdown-item">
+					<span>Sign in</span>
+				  </a>
+							</li>
+
+		</ul>
+	</div>
+	
+
+<div class="info_setting">
+ <div class="title_setting">Language</div>
+  <ul>
+		  <li class="current">
+		<a href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found" class="dropdown-item"><img src="images/1.jpg" alt="" width="16" height="11">English</a>
+	  </li>
+		  <li>
+		<a href="https://demo.posthemes.com/pos_zonan/layout2/fr/page-introuvable" class="dropdown-item"><img src="images/2.jpg" alt="" width="16" height="11">Français</a>
+	  </li>
+	  </ul>
+</div>
+<div class="info_setting">
+	<div class="title_setting">Currency :</div>
+	<ul>
+				<li>
+		<a title="Euro" rel="nofollow" href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">EUR €</a>
+		</li>
+				<li class="current">
+		<a title="US Dollar" rel="nofollow" href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">USD $</a>
+		</li>
+			</ul>
+</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="_mobile_search_block"></div>
+		</div>
+	</div>
+</nav>
+
+
+
+<div class="header-top hidden-md-down">
+	<div class="container-fluid">
+		<div class="row">
+			<div class=" col-menu col-lg-5 col-sm-12">	
+				<div id="_desktop_megamenu" class="use-sticky ">
+<div class="pos-menu-horizontal">
+	<ul class="menu-content"> 
+			 			
+				<li class=" menu-item menu-item1   ">
+					
+						<a href="https://demo.posthemes.com/pos_zonan/layout2/en/">
+						
+												<span>Home</span>
+																	</a>
+																									</li>
+			 			
+				<li class=" menu-item menu-item3  hasChild ">
+					
+						<a href="https://demo.posthemes.com/pos_zonan/layout2/en/12-hair-care">
+						
+												<span>Hair Care</span>
+												 <i class="hidden-md-down pe-7s-angle-down" style="font-size:26px;"></i>					</a>
+																																	
+						<span class="icon-drop-mobile"><i class="material-icons add">add </i><i class="material-icons remove">remove </i></span>						<div class="pos-sub-menu menu-dropdown col-xs-12 col-sm-12  menu_slidedown">
+						<div class="pos-sub-inner">
+													<div class="pos-menu-row row ">
+																											<div class="pos-menu-col col-xs-6 col-sm-3  ">
+																																		<ul class="ul-column ">
+																									<li class="submenu-item ">
+																													<a href="https://demo.posthemes.com/pos_zonan/layout2/en/13-hot-categories">Hot Categories</a>
+																<span class="icon-drop-mobile"><i class="material-icons add">add </i><i class="material-icons remove">remove </i></span>																													    <ul class="category-sub-menu">
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/19-dresses">Dresses</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/20-jackets-coats">Jackets &amp; Coats</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/21-sweaters">Sweaters</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/22-jeans">Jeans</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/23-blouses-shirts">Blouses &amp; Shirts</a>
+														          </li>
+														        														    </ul>
+														    																											</li>
+																								</ul>
+																					</div>
+																			<div class="pos-menu-col col-xs-6 col-sm-3  ">
+																																		<ul class="ul-column ">
+																									<li class="submenu-item ">
+																													<a href="https://demo.posthemes.com/pos_zonan/layout2/en/16-bottoms">Bottoms</a>
+																<span class="icon-drop-mobile"><i class="material-icons add">add </i><i class="material-icons remove">remove </i></span>																													    <ul class="category-sub-menu">
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/34-skirts">Skirts</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/35-leggings">Leggings</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/36-pants-capris">Pants &amp; Capris</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/37-wide-leg-pants">Wide Leg Pants</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/38-shorts">Shorts</a>
+														          </li>
+														        														    </ul>
+														    																											</li>
+																								</ul>
+																					</div>
+																			<div class="pos-menu-col col-xs-6 col-sm-3  ">
+																																		<ul class="ul-column ">
+																									<li class="submenu-item ">
+																													<a href="https://demo.posthemes.com/pos_zonan/layout2/en/17-tops-sets">Tops &amp; Sets</a>
+																<span class="icon-drop-mobile"><i class="material-icons add">add </i><i class="material-icons remove">remove </i></span>																													    <ul class="category-sub-menu">
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/39-tank-tops">Tank Tops</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/40-suits-sets">Suits &amp; Sets</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/41-jumpsuits">Jumpsuits</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/42-rompers">Rompers</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/43-sleep-lounge">Sleep &amp; Lounge</a>
+														          </li>
+														        														    </ul>
+														    																											</li>
+																								</ul>
+																					</div>
+																			<div class="pos-menu-col col-xs-6 col-sm-3  ">
+																																		<ul class="ul-column ">
+																									<li class="submenu-item ">
+																													<a href="https://demo.posthemes.com/pos_zonan/layout2/en/18-accessories">Accessories</a>
+																<span class="icon-drop-mobile"><i class="material-icons add">add </i><i class="material-icons remove">remove </i></span>																													    <ul class="category-sub-menu">
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/44-eyewear-accessories">Eyewear &amp; Accessories</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/45-hats-caps">Hats &amp; Caps</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/46-belts-cummerbunds">Belts &amp; Cummerbunds</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/47-scarves-wraps">Scarves &amp; Wraps</a>
+														          </li>
+														        														          <li>
+														              <a href="https://demo.posthemes.com/pos_zonan/layout2/en/48-gloves-mittens">Gloves &amp; Mittens</a>
+														          </li>
+														        														    </ul>
+														    																											</li>
+																								</ul>
+																					</div>
+																								</div>
+													<div class="pos-menu-row row ">
+																											<div class="pos-menu-col col-xs-12 col-sm-12  ">
+																																		<ul class="ul-column ">
+																									<li class="submenu-item ">
+																																																														<a href="#"><img src="images/banner-meu.jpg" alt=""></a>
+																																																										</li>
+																								</ul>
+																					</div>
+																								</div>
+												
+						</div>
+						</div>
+															</li>
+			 			
+				<li class=" menu-item menu-item4  hasChild ">
+					
+						<a href="https://demo.posthemes.com/pos_zonan/layout2/en/49-skin-care">
+						
+												<span>Skin Care</span>
+												 <i class="hidden-md-down pe-7s-angle-down" style="font-size:26px;"></i>					</a>
+																											<span class="icon-drop-mobile"><i class="material-icons add">add</i><i class="material-icons remove">remove </i></span><div class="menu-dropdown cat-drop-menu menu_slidedown"><ul class="pos-sub-inner"><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/50-bottoms" class=""><span>Bottoms</span></a><span class="icon-drop-mobile"><i class="material-icons add">add</i><i class="material-icons remove">remove </i></span><div class="menu-dropdown cat-drop-menu "><ul class="pos-sub-inner"><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/53-skirts" class=""><span>Skirts</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/54-leggings" class=""><span>Leggings</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/55-jeans" class=""><span>Jeans</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/56-pants-capris" class=""><span>Pants &amp; Capris</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/57-shorts" class=""><span>Shorts</span></a></li></ul></div></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/51-outerwear-jackets" class=""><span>Outerwear &amp; Jackets</span></a><span class="icon-drop-mobile"><i class="material-icons add">add</i><i class="material-icons remove">remove </i></span><div class="menu-dropdown cat-drop-menu "><ul class="pos-sub-inner"><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/58-trench" class=""><span>Trench</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/59-genuine-leather" class=""><span>Genuine Leather</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/60-parkas" class=""><span>Parkas</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/61-down-jackets" class=""><span>Down Jackets</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/62-wool-blends" class=""><span>Wool &amp; Blends</span></a></li></ul></div></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/52-underwear-loungewear" class=""><span>Underwear &amp; Loungewear</span></a><span class="icon-drop-mobile"><i class="material-icons add">add</i><i class="material-icons remove">remove </i></span><div class="menu-dropdown cat-drop-menu "><ul class="pos-sub-inner"><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/63-boxers" class=""><span>Boxers</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/64-briefs" class=""><span>Briefs</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/65-long-johns" class=""><span>Long Johns</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/66-men-s-sleep-lounge" class=""><span>Men\'s Sleep &amp; Lounge</span></a></li><li><a href="https://demo.posthemes.com/pos_zonan/layout2/en/67-pajama-sets" class=""><span>Pajama Sets</span></a></li></ul></div></li></ul></div>
+									</li>
+			 			
+				<li class=" menu-item menu-item5   ">
+					
+						<a href="https://demo.posthemes.com/pos_zonan/layout2/en/contact-us">
+						
+												<span>Contact us</span>
+																	</a>
+																									</li>
+			 			
+				<li class=" menu-item menu-item2  hasChild ">
+					
+						<a href="javascript:void(0)">
+						
+												<span>Custom Menu</span>
+												 <i class="hidden-md-down pe-7s-angle-down" style="font-size:26px;"></i>					</a>
+																																	
+						<span class="icon-drop-mobile"><i class="material-icons add">add </i><i class="material-icons remove">remove </i></span>						<div class="pos-sub-menu menu-dropdown col-xs-12 col-sm-12  menu_slidedown">
+						<div class="pos-sub-inner">
+													<div class="pos-menu-row row ">
+																											<div class="pos-menu-col col-xs-12 col-sm-12  ">
+																																		<ul class="ul-column ">
+																									<li class="submenu-item ">
+																																												<div class="html-block">
+																<div class="custom_menu">
+<div class="row">
+<div class="col-lg-4 col-md-12">
+<div class="menu_block">
+<h6 class="custom_txt1">Women is Clothes &amp; Fashion</h6>
+<p>Shop women is clothing and accessories and get inspired by the latest fashion trends.</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-12">
+<div class="menu_block">
+<h6 class="custom_txt1">Simple Style</h6>
+<p>A new flattering style with all the comfort of our linen.</p>
+</div>
+</div>
+<div class="col-lg-4 col-md-12">
+<div class="menu_block">
+<h6 class="custom_txt1">Easy Layers</h6>
+<p>Endless styling possibilities in a collection full of versatile pieces.</p>
+</div>
+</div>
+</div>
+<div class="custom_banner" style="margin-top: 30px;"><a href="#"><img src="images/custom_banner.jpg" alt="" class="img-responsive"></a></div>
+</div>
+															</div>
+																																										</li>
+																								</ul>
+																					</div>
+																								</div>
+												
+						</div>
+						</div>
+															</li>
+			</ul>
+	
+</div>
+</div>
+			</div>
+			<div class="col col col-lg-2" id="_desktop_logo">
+								<a href="https://demo.posthemes.com/pos_zonan/layout2/">
+				<img class="logo img-responsive" src="images/zonan2-logo-15780245432.jpg" alt="Zonan 2  Responsive Prestashop Theme">
+				</a>
+							</div>
+			<div class=" col col-lg-5 col-sm-12 position-static">	
+				<div class="block_setting dropdown js-dropdown">
+					<span class="ion-android-settings icon-Settings " data-target="#" data-toggle="dropdown"></span>
+					<div class="content_setting dropdown-menu">
+							<div class="user-info info_setting">
+		<div class="title_setting">My account</div>
+		<ul>
+			<li>
+				<a href="https://demo.posthemes.com/pos_zonan/layout2/en/my-account" rel="nofollow" class="dropdown-item">My account</a>
+			</li>
+			<li>
+			</li><li>
+				<a href="https://demo.posthemes.com/pos_zonan/layout2/en/cart?action=show" class="dropdown-item">Checkout</a>
+			</li>
+			<li>
+								  <a href="https://demo.posthemes.com/pos_zonan/layout2/en/my-account" title="Log in to your customer account" rel="nofollow" class="dropdown-item">
+					<span>Sign in</span>
+				  </a>
+							</li>
+
+		</ul>
+	</div>
+	
+
+<div class="info_setting">
+ <div class="title_setting">Language</div>
+  <ul>
+		  <li class="current">
+		<a href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found" class="dropdown-item"><img src="images/1.jpg" alt="" width="16" height="11">English</a>
+	  </li>
+		  <li>
+		<a href="https://demo.posthemes.com/pos_zonan/layout2/fr/page-introuvable" class="dropdown-item"><img src="images/2.jpg" alt="" width="16" height="11">Français</a>
+	  </li>
+	  </ul>
+</div>
+<div class="info_setting">
+	<div class="title_setting">Currency :</div>
+	<ul>
+				<li>
+		<a title="Euro" rel="nofollow" href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found?SubmitCurrency=1&amp;id_currency=2" class="dropdown-item">EUR €</a>
+		</li>
+				<li class="current">
+		<a title="US Dollar" rel="nofollow" href="https://demo.posthemes.com/pos_zonan/layout2/en/page-not-found?SubmitCurrency=1&amp;id_currency=1" class="dropdown-item">USD $</a>
+		</li>
+			</ul>
+</div>
+
+					</div>
+				</div>
+				<div id="_desktop_cart_block">
+	<div class="blockcart cart-preview" data-refresh-url="//demo.posthemes.com/pos_zonan/layout2/en/module/ps_shoppingcart/ajax" data-cartitems="0">
+		<div class="button_cart">
+			<a rel="nofollow" href="//demo.posthemes.com/pos_zonan/layout2/en/cart?action=show" class="desktop hidden-md-down">
+				 <i class="ion-bag"></i> 
+				 <span class="item_count">0</span>
+			</a>
+			<a rel="nofollow" href="//demo.posthemes.com/pos_zonan/layout2/en/cart?action=show" class="mobile hidden-lg-up">
+				<i class="ion-bag"></i> 
+				<span class="item_count">0</span>
+			</a>
+		</div>
+		<div class="popup_cart">
+			<div class="content-cart">
+				<div class="mini_cart_arrow"></div>
+				<ul>
+				  				</ul>
+				<div class="price_content">
+					<div class="cart-subtotals">
+					  						<div class="products price_inline">
+						  <span class="label">Subtotal</span>
+						  <span class="value">$0.00</span>
+						</div>
+					  						<div class=" price_inline">
+						  <span class="label"></span>
+						  <span class="value"></span>
+						</div>
+					  						<div class="shipping price_inline">
+						  <span class="label">Shipping</span>
+						  <span class="value">Free</span>
+						</div>
+					  						<div class="tax price_inline">
+						  <span class="label">Taxes</span>
+						  <span class="value">$0.00</span>
+						</div>
+					  					</div>
+					<div class="cart-total price_inline">
+					  <span class="label">Total</span>
+					  <span class="value">$0.00</span>
+					</div>
+				</div>
+				<div class="checkout">
+					<a href="//demo.posthemes.com/pos_zonan/layout2/en/cart?action=show" class="btn btn-primary">Checkout</a> 
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+var wishlistProductsIds='';
+var baseDir ='https://demo.posthemes.com/pos_zonan/layout2/';
+var static_token='9a4624691966912e3d9bb74d9ac16327';
+var isLogged ='0';
+var loggin_required='You must be logged in to manage your wishlist.';
+var added_to_wishlist ='The product was successfully added to your wishlist.';
+var mywishlist_url='https://demo.posthemes.com/pos_zonan/layout2/en/module/blockwishlist/mywishlist';
+	var isLoggedWishlist=false;
+</script>
+<div id="_desktop_wishtlist">
+	<div class="wishtlist_top">
+	<a class="" href="https://demo.posthemes.com/pos_zonan/layout2/en/module/blockwishlist/mywishlist">
+		<i class="ion-android-favorite-outline"></i><span class="txt_wishlist">Wishlist</span><span class="cart-wishlist-number">0</span>
+	</a>
+	</div>
+</div><div id="_desktop_compare">
+	<div class="compare_top">
+		<a href="https://demo.posthemes.com/pos_zonan/layout2/module/poscompare/comparePage">
+			<i class="ion-ios-shuffle-strong"></i><span>Compare <span id="poscompare-nb"></span></span>
+		</a>
+	</div>
+</div>
+<script type="text/javascript">
+var baseDir ='https://demo.posthemes.com/pos_zonan/layout2/'; 
+</script>
+<!-- Block search module TOP --> 
+<div id="_desktop_search_block">
+<div class="block-search  dropdown js-dropdown">
+	<span class="search-icon" data-toggle="dropdown"><i class="ion-ios-search-strong"></i></span> 
+	<div id="search_widget" class="search_top dropdown-menu" data-search-controller-url="//demo.posthemes.com/pos_zonan/layout2/en/search">
+		<form method="get" action="//demo.posthemes.com/pos_zonan/layout2/en/search">
+			<input type="hidden" name="controller" value="search">
+			<input class="text_input" type="text" name="s" value="" placeholder="Search products..." aria-label="Search">
+			<button type="submit">
+				<i class="ion-ios-search-strong"></i> 
+			</button>
+		</form>
+	</div>
+</div>
+</div>
+<!-- /Block search module TOP -->
+
+			</div>
+			
+		</div>
+	</div>
+
+</div>
+
+
+
+
+        
+		
+	  </header>
+	   
+			<div class="breadcrumb_container " data-depth="1">
+	<div class="container">
+				<nav data-depth="1" class="breadcrumb">
+		  <ol itemscope="" itemtype="http://schema.org/BreadcrumbList">
+			
+			  				
+				  <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+					<a itemprop="item" href="https://demo.posthemes.com/pos_zonan/layout2/en/">
+					  <span itemprop="name">Home</span>
+					</a>
+					<meta itemprop="position" content="1">
+				  </li>
+				
+			  			
+		  </ol>
+		</nav>
+	</div>
+</div>
+
+		
+	         
+        
+<aside id="notifications">
+  <div class="container">
+    
+    
+    
+      </div>
+</aside>
+      
+     <div id="wrapper" class="">
+        
+		        <div class="container">
+			<div class="row">
+			  
+
+			  
+  <div id="content-wrapper" class="col-xs-12">
+    
+    
+
+  <section id="main">
+
+    
+      
+        <header class="page-header">
+          <h1>
+  The page you are looking for was not found.
+</h1>
+        </header>
+      
+    
+
+    
+  <section id="content" class="page-content page-not-found">
+  
+
+    <h4>Sorry for the inconvenience.</h4>
+    <p>Search again what you are looking for</p>
+
+    
+      
+    
+
+    
+      
+    
+
+  
+</section>
+
+
+    
+      <footer class="page-footer">
+        
+          <!-- Footer content -->
+        
+      </footer>
+    
+
+  </section>
+
+
+    
+  </div>
+
+
+			  
+			</div>
+				
+        </div>
+			
+        
+    </div>
+
+    <footer id="footer">
+        
+          <div class="footer-container">
+	<div class="footer_top">
+		<div class="container">
+		   
+			  <div class="ft_newsletter">
+	<div class="title_newsletter">
+				<div class="des_newsletter">Special Ofers For Subscribers</div>
+				<h2>Ten Percent Member Discount</h2>
+	</div>
+	<form action="https://demo.posthemes.com/pos_zonan/layout2/en/#footer" method="post">
+		<input class="btn btn-primary" name="submitNewsletter" type="submit" value="Subscribe">
+		<div class="input-wrapper">
+		<input name="email" type="email" value="" placeholder="Your email address">
+		</div>
+		<input type="hidden" name="action" value="0">
+		<div class="clearfix"></div>
+						
+			</form>
+</div>
+
+		  
+		</div>
+	</div>
+	<div class="footer_bottom">
+		<div class="container">
+			<div class="row">
+			   
+					<div class="col-md-6 links footer_block">
+      <div class="footer_about_us">
+<div class="logo_footer"><a href="#"><img src="images/logo_footer.png" alt=""></a></div>
+<div class="desc_info">We are a team of designers and developers that create high quality Magento, Prestashop, Opencart.</div>
+</div>
+          
+
+  <div class="social_follow"> 
+    <h4>Follow Us On Social:</h4>
+    <ul>
+              <li class="facebook"><a href="https://www.facebook.com/posthemes" target="_blank">Facebook</a></li>
+              <li class="twitter"><a href="https://twitter.com/posthemes" target="_blank">Twitter</a></li>
+              <li class="youtube"><a href="https://www.youtube.com/user/posthemes" target="_blank">YouTube</a></li>
+              <li class="googleplus"><a href="https://plus.google.com/100616268634541521861/posts" target="_blank">Google +</a></li>
+              <li class="instagram"><a href="https://www.instagram.com/posthemes9234" target="_blank">Instagram</a></li>
+          </ul>
+  </div>
+
+
+      </div>
+<div class="col-md-2 links footer_block">
+	<h3 class=" hidden-sm-down">Opening Time</h3>
+	<div class="title clearfix hidden-md-up" data-target="#footer_2" data-toggle="collapse">
+		<h3>Opening Time</h3>
+		<span class="float-xs-right">
+			<span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">keyboard_arrow_down</i>
+				<i class="material-icons remove">keyboard_arrow_up</i>
+			</span>
+		</span>
+	</div>
+     <div id="footer_2" class="collapse footer_list">
+    <ul class="footer-time">
+				<li><span>Mon - Fri: 8AM - 10PM</span></li>
+				<li><span>Sat: 9AM-8PM</span></li>
+				<li><span>Sun: Closed</span></li>
+				<li><span>We Work All The Holidays</span></li>
+				</ul>
+    	</div>	
+  </div>
+<div class="col-md-2 links footer_block">
+	<h3 class=" hidden-sm-down">Information</h3>
+	<div class="title clearfix hidden-md-up" data-target="#footer_3" data-toggle="collapse">
+		<h3>Information</h3>
+		<span class="float-xs-right">
+			<span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">keyboard_arrow_down</i>
+				<i class="material-icons remove">keyboard_arrow_up</i>
+			</span>
+		</span>
+	</div>
+      <ul id="footer_3" class="collapse footer_list">
+      	
+        <li>
+          <a id="link-cms-page-1-3" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/content/1-delivery" title="Our terms and conditions of delivery">
+            Delivery
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-cms-page-4-3" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/content/4-about-us" title="Learn more about us">
+            About us
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-cms-page-5-3" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/content/5-secure-payment" title="Our secure payment method">
+            Secure payment
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-static-page-contact-3" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/contact-us" title="Use our form to contact us">
+            Contact us
+          </a>
+        </li>
+      	
+        <li>
+          <a id="link-static-page-sitemap-3" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/sitemap" title="Lost ? Find what your are looking for">
+            Sitemap
+          </a>
+        </li>
+          </ul>
+  </div>
+<div class="col-md-2 links footer_block">
+	<h3 class=" hidden-sm-down">My Account</h3>
+	<div class="title clearfix hidden-md-up" data-target="#footer_4" data-toggle="collapse">
+		<h3>My Account</h3>
+		<span class="float-xs-right">
+			<span class="navbar-toggler collapse-icons">
+				<i class="material-icons add">keyboard_arrow_down</i>
+				<i class="material-icons remove">keyboard_arrow_up</i>
+			</span>
+		</span>
+	</div>
+     <div id="footer_4" class="collapse footer_list">
+    
+          <ul>
+	<li>
+	  <a href="https://demo.posthemes.com/pos_zonan/layout2/en/identity" title="Personal info" rel="nofollow">
+		Personal info
+	  </a>
+	</li>
+	<li>
+	  <a href="https://demo.posthemes.com/pos_zonan/layout2/en/order-history" title="Orders" rel="nofollow">
+		Orders
+	  </a>
+	</li>
+	<li>
+	  <a href="https://demo.posthemes.com/pos_zonan/layout2/en/credit-slip" title="Credit slips" rel="nofollow">
+		Credit slips
+	  </a>
+	</li>
+	<li>
+	  <a href="https://demo.posthemes.com/pos_zonan/layout2/en/addresses" title="Addresses" rel="nofollow">
+		Addresses
+	  </a>
+	</li>
+
+</ul> 
+
+    	</div>	
+  </div>
+
+			    
+				
+			</div>
+			<div class="row">
+				<div class="bottom-inner">
+				  
+					  <div class="col-md-6 links footer_block">
+      <div class="copyright">Copyright <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</div>
+      </div>
+<div class="col-md-6 links footer_block">
+      <ul>
+              <li>
+          <a id="link-cms-page-2-6" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/content/2-legal-notice" title="Legal notice">
+            Legal Notice
+          </a>
+        </li>
+              <li>
+          <a id="link-product-page-prices-drop-6" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/prices-drop" title="Our special products">
+            Prices drop
+          </a>
+        </li>
+              <li>
+          <a id="link-product-page-new-products-6" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/new-products" title="Our new products">
+            New products
+          </a>
+        </li>
+              <li>
+          <a id="link-product-page-best-sales-6" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/best-sales" title="Our best sales">
+            Best sales
+          </a>
+        </li>
+              <li>
+          <a id="link-static-page-authentication-6" class="cms-page-link" href="https://demo.posthemes.com/pos_zonan/layout2/en/login" title="">
+            Login
+          </a>
+        </li>
+          </ul>
+  </div>
+
+				  
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+        
+    </footer>
+
+    </main>
+	<div class="back-top"><a href="#" class="back-top-button"></a></div>
+    
+        <script type="text/javascript" src="js/core.js"></script>
+  <script type="text/javascript" src="js/theme.js"></script>
+  <script type="text/javascript" src="js/xipblogdisplayposts.js"></script>
+  <script type="text/javascript" src="js/ajax-wishlist.js"></script>
+  <script type="text/javascript" src="js/jquery.malihu.PageScroll2id.min.js"></script>
+  <script type="text/javascript" src="js/front.js"></script>
+  <script type="text/javascript" src="js/jquery.nivo.slider.pack.js"></script>
+  <script type="text/javascript" src="js/posslideshow.js"></script>
+  <script type="text/javascript" src="js/posfeaturedproducts.js"></script>
+  <script type="text/javascript" src="js/posnewproducts.js"></script>
+  <script type="text/javascript" src="js/postabcateslider.js"></script>
+  <script type="text/javascript" src="js/posbestsellers.js"></script>
+  <script type="text/javascript" src="js/jquery-ui.min.js"></script>
+  <script type="text/javascript" src="js/ps_searchbar.js"></script>
+  <script type="text/javascript" src="js/ps_shoppingcart.js"></script>
+  <script type="text/javascript" src="js/front_1.js"></script>
+  <script type="text/javascript" src="js/posrecommendedproducts.js"></script>
+  <script type="text/javascript" src="js/xipblog.js"></script>
+  <script type="text/javascript" src="js/validator.min.js"></script>
+  <script type="text/javascript" src="js/custom.js"></script>
+
+
+    
+
+    
+      <div id="poscompare-notification" class="">
+    <div class="notification-inner">
+        <span class="notification-title"><i class="fa fa-check" aria-hidden="true"></i>  Product added to compare.</span>
+    </div>
+</div>
+    
+  
+
+</body></html>
